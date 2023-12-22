@@ -1,4 +1,4 @@
-NIM Game
+NIM GAME
 The NIM game is a classic two-player game where players take turns removing a minimum of 1 and a maximum of M pieces from a table or board containing initially N pieces. The player who removes the last possible pieces wins the game.
 
 There exists a winning strategy for this game that is remarkably simple: it involves always leaving multiples of (M+1) pieces for the opponent.
